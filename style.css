@@ -1,0 +1,76 @@
+body{
+  background-image:url(background.jpg) ;
+  background-size: cover;
+  color: white;
+}
+
+.contenitore{
+  width:60%;
+   background-color: rgba(2,0,0,0.5);
+   border-radius: 2%;
+   padding: 5%;
+   margin: 0px auto;
+   margin-top: 3%;
+   margin-bottom: 11%;
+}
+
+.imglogo{
+  width: 200px;
+  display: block;
+  text-align: center;
+  margin: 0px auto;
+}
+header>h1{
+  color:#00ff00d1;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  margin: 5px;
+
+}
+
+.navigazione{
+  width:97%;
+  margin: 0px auto;
+  background-color: #00ff00d1;
+  text-align: center;
+  padding: 15px;
+}
+main{
+  margin-top: 15px;
+ }
+
+
+
+.carica1{
+  width: 35%;
+  height: 25px;
+  background-color: orange;
+  border-radius: 3px;
+  margin-bottom: 30px;
+
+}
+.Titoli{
+  font-size: 25px;
+  font-family: 'Rubik', sans-serif;
+}
+
+
+.carica2{
+  width: 60%;
+  height: 25px;
+  background-color: #0bd80bd1 ;
+  border-radius: 3px;
+  margin-bottom: 30px;
+}
+.carica3{
+  width: 10%;
+  height: 25px;
+  background-color:#df1f1f;
+  border-radius: 3px;
+  margin-bottom: 30px;
+}
+footer{
+  text-align:right;
+  font-size: 20px;
+
+}
